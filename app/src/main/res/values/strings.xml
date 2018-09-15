@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArchitectureComponent</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_record_designation">Designation</string>
+    <string name="edit_level">Level</string>
+    <string name="beginer">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="add_btn">Add</string>
+</resources>

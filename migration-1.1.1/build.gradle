@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('migration-1.1.1.jar'))
